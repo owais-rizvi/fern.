@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# Build output
+/frontend/build/
+/frontend/dist/
+/backend/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
